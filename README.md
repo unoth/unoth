@@ -3,11 +3,10 @@
   <img src="https://64.media.tumblr.com/7056159fa5205b33b84a57a5c90cfe6a/tumblr_olyroujF3B1vcwcjeo1_500.gifv" width="400"/>
  </a>
 
-Hi everybody! I'm Kris.
+Hi everybody! I'm Kristina.
 
 I'm an Android developer. I'll be glad to meet new people!✨
 
-[![Telegram](https://img.shields.io/badge/Telegram-5091CD?logo=telegram&logoColor=white)](https://t.me/dedbynet) &nbsp;
 [![Gmail](https://img.shields.io/badge/Email-7675A2?logo=gmail&logoColor=white)](mailto:dk.mobdev@gmail.com?subject=Hello%20Kristina,%20From%20Github)
 
 </div>
